@@ -1,0 +1,26 @@
+{
+  "tasks": [
+    {
+      "text": "dasdsa76",
+      "check": false,
+      "id": "d35c"
+    },
+    {
+      "text": "asdas",
+      "check": false,
+      "id": "3a1b"
+    }
+  ],
+  "people": [
+    {
+      "nume": "Ion",
+      "check": false,
+      "id": "3a1b"
+    },
+    {
+      "id": "eb2f",
+      "nume": "Edi",
+      "check": true
+    }
+  ]
+}
